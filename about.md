@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="./src/Logo.png" alt="DSDL">
+<img itemprop="image" class="img-rounded" src="http://display.sogang.ac.kr/wp-content/uploads/2015/12/Logo_2-e1449904947818.png" alt="DSDL">
 
 ## About
 
