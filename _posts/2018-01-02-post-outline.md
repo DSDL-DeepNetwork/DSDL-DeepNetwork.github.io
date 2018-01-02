@@ -6,8 +6,8 @@ image: ''
 description: 2018 winter seminar
 category: 'outline'
 tags:'week'
-twitter_text:
-introduction:
+twitter_text:[Week#1] Introduction
+introduction:[Week#1] Introduction
 ---
 
 nter serminar
