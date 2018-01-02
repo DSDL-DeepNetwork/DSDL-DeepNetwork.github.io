@@ -5,8 +5,6 @@ date: 2018-01-02 09:00:23
 image: 'http://joelouismarino.github.io/images/blog_images/blog_googlenet_keras/googlenet_diagram.png'
 description: 2018 winter seminar
 category: 'outline'
-tags:
-- guide
 twitter_text:[Week#1] Introduction
 introduction:[Week#1] Introduction
 ---
