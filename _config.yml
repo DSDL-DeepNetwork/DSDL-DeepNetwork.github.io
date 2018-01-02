@@ -9,7 +9,7 @@ google_analytics: "UA-XXXXXXXX-X"
 # User Settings
 username: Display System Design Lab.
 user_description: DSDL, Sogang University, Korea
-#disqus_username: 
+disqus_username: DSDL 
 
 # Social Media
 # Remove the item if you don't need it
